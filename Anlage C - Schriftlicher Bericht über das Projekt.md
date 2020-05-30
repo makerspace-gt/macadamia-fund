@@ -1,1 +1,0 @@
-# Anlage C - Schriftlicher Bericht über das Projekt
