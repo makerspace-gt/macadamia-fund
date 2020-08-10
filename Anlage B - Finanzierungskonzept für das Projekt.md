@@ -11,6 +11,8 @@
 | [SanDisk 128GB SDXC Speicherkarte]     |        38,66 € |
 | [Canon RS-60E3 Remote Control]         |        17,71 € |
 | [ESDDI 170cm Kamera Stativ]            |        41,99 € |
+| [Kamera Tasche]                        |        xx,xx € |
+| [Magic Arm]                            |        97,97 € |
 | **Summe**                              | **1.999,62 €** |
 
 [Epson EB-990U Beamer]: https://www.notebooksbilliger.de/epson+eb+990u
@@ -22,3 +24,4 @@
 [SanDisk 128GB SDXC Speicherkarte]: https://www.amazon.de/dp/B07H9DVLBB
 [Canon RS-60E3 Remote Control]: https://www.proshop.de/2006250
 [ESDDI 170cm Kamera Stativ]: https://www.amazon.de/dp/B07CM3655D
+[Magic Arm]: https://www.amazon.de/dp/B000J4FONU
