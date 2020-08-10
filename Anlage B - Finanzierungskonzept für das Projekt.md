@@ -13,6 +13,7 @@
 | [ESDDI 170cm Kamera Stativ]            |        41,99 € |
 | [Kamera Tasche]                        |        xx,xx € |
 | [Magic Arm]                            |        97,97 € |
+| [Winkekatze]                           |        xx,xx € |
 | **Summe**                              | **1.999,62 €** |
 
 [Epson EB-990U Beamer]: https://www.notebooksbilliger.de/epson+eb+990u
