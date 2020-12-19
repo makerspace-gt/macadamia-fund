@@ -37,9 +37,9 @@
       * (Video-)Dokumentation von Projekten
       * HowTos für Maschinen, Werkzeuge und Arbeitsweisen
       * eventuell ein Podcast
-    * **b. Zielgruppe:**
+    * **b. Zielgruppe:**  
       Von der Macadamia profitieren sowohl die Personen die Wissen vermitteln, als auch die Personen die Wissen vermittelt bekommen. Da wir bereits fünf Arbeitsbereiche (Elektronik, 3D-Druck, Computer, Holz und Textil) haben, wird es ein breites Angebot geben, welche sich nicht an eine spezielle Alters- oder Intressengruppe richtet. Somit sind prinzipiell alle Neugierigen die Zielgruppe.
-    * **c. Beschreibung/Durchführung:** 684 Zeichen
+    * **c. Beschreibung/Durchführung:** 684 Zeichen  
       Die Ausrüstung soll soweit möglich bei lokalen Händlern gekauft werden um die lokalen Strukturen zu stärken und bei Fragen im Bezug auf Einrichtung und Umgang direkt Hilfe vor Ort zu erhalten. Je nach Anwendungsfall muss die Ausrüstung anders eingerichtet werden.
       Beamer und Soundbar für Workshops, Headsets und Webcams für Webinare, Digitalkamera und Beleuchtung für Bild- oder Videodokumentationen von Projekte, Arbeitsweisen und Maschinen.
       Bei der Einrichtung der Ausrüstung bekommen wir Unterstützung von ASSIMO EVENT, welche z.B. auch das Streaming für die Weberei organisieren.
