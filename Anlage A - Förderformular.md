@@ -40,21 +40,18 @@
     * **b. Zielgruppe:**  
       Von der Macadamia profitieren sowohl die Personen, die Wissen vermitteln, als auch die Personen die Wissen vermittelt bekommen. Da wir bereits fünf Arbeitsbereiche (Elektronik, 3D-Druck, Computer, Holz und Textil) haben, wird es ein breites Angebot geben, welche sich nicht an eine spezielle Alters- oder Intressengruppe richtet. Somit sind prinzipiell alle Neugierigen die Zielgruppe.
     * **c. Beschreibung/Durchführung:** 684 Zeichen  
-      Die Ausrüstung soll soweit möglich bei lokalen Händlern gekauft werden, um die lokalen Strukturen zu stärken und bei Fragen im Bezug auf Einrichtung und Umgang direkt Hilfe vor Ort zu erhalten. Je nach Anwendungsfall muss die Ausrüstung anders eingerichtet werden.
-      Beamer und Soundbar für Workshops, Headsets und Webcams für Webinare, Digitalkamera und Beleuchtung für Bild- oder Videodokumentationen von Projekte, Arbeitsweisen und Maschinen.
+      Die Ausrüstung soll soweit möglich bei lokalen Händlern gekauft werden, um die lokalen Strukturen zu stärken und bei Fragen im Bezug auf Einrichtung und Umgang direkt Hilfe vor Ort zu erhalten. Je nach Anwendungsfall muss die Ausrüstung anders eingerichtet werden - Beamer und Soundbar für Workshops, Headsets und Webcams für Webinare, Digitalkamera und Beleuchtung für Bild- oder Videodokumentationen von Projekte, Arbeitsweisen und Maschinen.
       Bei der Einrichtung der Ausrüstung bekommen wir Unterstützung von ASSIMO EVENT, welche z.B. auch das Streaming für die Weberei organisieren.
     * **d. Das Projekt ist erfolgreich, wenn:**  
       ... die Möglichkeiten für die Wissensvermittlung geschaffen wurden. Dies lässt sich dadurch erkennen, dass mindestens ein HowTo für Maschinen, Werkzeuge oder Arbeitsweisen erstellt, ein Webinar abgehalten und ein Workshop durchgeführt wurde. 
 1.  **Gesamtkosten des Projektes:**  
-    ca. x.xxx € siehe Anlage B - Finanzierungskonzept für das Projekt
+    ca. 3.875 € siehe Anlage B - Finanzierungskonzept für das Projekt
 2.  **Erwartete Förderung durch die Bürgerstiftung:**  
-    x.xxx € siehe Anlage B - Finanzierungskonzept für das Projekt
+    3.500 € siehe Anlage B - Finanzierungskonzept für das Projekt
 3.  **Durch wen und wie wird das Projekt finanziell unterstützt?**  
     * [Bürgerstiftung Gütersloh](https://www.buergerstiftung-guetersloh.de/)
     * [Schorcht](https://foto-schorcht.rf-webworld.de/)
     * [ASSIMO EVENT](http://www.assimo-event.de/)
-    * [EURONICS XXL Bücker](https://www.euronics.de/guetersloh-buecker/ueber-uns/)
-    * [MediaMarkt](https://www.mediamarkt.de/markt/guetersloh)
 4.  **Zeitplan für das Projekt:**
     * Beschaffen der Ausrüstung binnen 4 Wochen nach Erhalt der Fördermittel
     * Einrichten des Ausrüstung binnen 8 Woche nach Beschaffung der Ausrüstung
