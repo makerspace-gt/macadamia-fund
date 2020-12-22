@@ -19,17 +19,18 @@ Folgende Anschaffungen sind geplant:
 | [Stativ mit Auslegearm]            |        89,99 € |
 | [DJI Ronin-SC Pro Combo Gimbal]    |       299,00 € |
 | [Videolicht mit Stativ]            |        64,99 € |
+| [HDMI Capture Card (1080P/60FPS)]  |        59,99 € |
 | [Winkekatze]                       |         8,90 € |
-| **Summe**                          | **3.871,65 €** |
+| **Summe**                          | **3.931,64 €** |
 
 Die Kosten verteilen sich wie folgt:
 
 | Kostenträger           |       Wert |
 | ---------------------- | ---------: |
-| Makerspace Gütersloh   |   161,65 € |
+| Makerspace Gütersloh   |   111,64 € |
 | ASSIMO EVENT           |    50,00 € |
 | Foto Schorcht (Rabatt) |    60,00 € |
-| Bürgerstiftung         | 3.600,00 € |
+| Bürgerstiftung         | 3.700,00 € |
 
 Die Preise basieren auf Angeboten mit 16% MwSt. Wenn diese wieder bei 19% ist bedeutet das Mehrkosten von ca. 100 € die aus Vereinsmitteln bezahlt werden.
 
@@ -67,5 +68,7 @@ Die Angebote die mit diesen Möglichkeiten geschaffen werden sind für Mitgliede
 [Canon-HL100 Kameratasche]: https://www.digitfoto.de/infosproduit.php?refinfos=2351575C002A
 
 [Videolicht mit Stativ]: https://www.amazon.de/dp/B07T8FBZC2
+
+[HDMI Capture Card (1080P/60FPS)]: https://www.amazon.de/dp/B08D3PHT58
 
 [Winkekatze]: https://www.amazon.de/dp/B01N33SXL9
