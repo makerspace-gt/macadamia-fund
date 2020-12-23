@@ -12,7 +12,7 @@ Folgende Anschaffungen sind geplant:
 | 2x [Logitech G533 Headset]         |       219,80 € |
 | [JBL Xtreme 2 Musikbox]            |       178,99 € |
 | [Nikon Z6 Systemkamera]            |     1.898,00 € |
-| [SanDisk 128GB SDXC Speicherkarte] |        33,73 € |
+| [Sony 120GB XQD Speicherkarte]     |       159,98 € |
 | [Rode VMGO Kamera Mikrofon]        |        60,00 € |
 | [ayex AX-1 Funk-Fernauslöser]      |        28,95 € |
 | [Kameratasche]                     |        47,92 € |
@@ -21,13 +21,13 @@ Folgende Anschaffungen sind geplant:
 | [Videolicht mit Stativ]            |        64,99 € |
 | [HDMI Capture Card (1080P/60FPS)]  |        59,99 € |
 | [Winkekatze]                       |         8,90 € |
-| **Summe**                          | **3.931,64 €** |
+| **Summe**                          | **4.057,89 €** |
 
 Die Kosten verteilen sich wie folgt:
 
 | Kostenträger           |       Wert |
 | ---------------------- | ---------: |
-| Makerspace Gütersloh   |   111,64 € |
+| Makerspace Gütersloh   |   247,89 € |
 | ASSIMO EVENT           |    50,00 € |
 | Foto Schorcht (Rabatt) |    60,00 € |
 | Bürgerstiftung         | 3.700,00 € |
@@ -56,7 +56,7 @@ Die Angebote die mit diesen Möglichkeiten geschaffen werden sind für Mitgliede
 [ESDDI 170cm Kamera Stativ]: https://www.amazon.de/dp/B07CM3655D
 [Magic Arm]: https://www.amazon.de/dp/B000J4FONU
 
-[SanDisk 128GB SDXC Speicherkarte]: https://www.amazon.de/dp/B07H9DVLBB
+[Sony 120GB XQD Speicherkarte]: https://www.foto-erhardt.de/speicher/xqd-karten/sony-qdg120f-xqd-karte-g-serie-120gb-400mb-s.html?piwik_campaign=preise&piwik_kwd=idealo
 
 [Rode VMGO Kamera Mikrofon]: https://www.amazon.de/dp/B00GQDORA4
 [Canon DM-E100 Stereo-Mikrofon]: https://www.foto-erhardt.de/video/mikrofone/canon-dm-e100-stereomikrofon.html
