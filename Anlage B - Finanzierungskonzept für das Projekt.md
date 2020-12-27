@@ -37,6 +37,9 @@ Die Preise basieren auf Angeboten mit 16% MwSt. Wenn diese wieder bei 19% ist be
 Da das Ziel des Projekts nur die Schaffung der Möglichkeiten zur Wissensvermittlung ist, gibt es kein weiteres  Finanzierungskonzept.  
 Die Angebote die mit diesen Möglichkeiten geschaffen werden sind für Mitglieder des Makerspace kostenlos. Der Preis für Gäste wird von der Person festgelegt, die den Workshop vorbereitet hat. Bei vergangenen Workshops waren es ca. 10 € pro Person für einen 3-stündigen Workshop zzgl. Verbrauchsmaterialien (z.B. Arduino Starterset oder Raspberry Pi).
 
+Bei der Auswahl des Equipments haben wir uns an verschiedenen Tests orientiert und uns darauf fokussiert, dass viele Anwendungen mit wenig Ausrüstung möglich sind, da wir nur einen Raum mit ca. 40 m² zur Verfügung haben.  
+Insbesondere bei der Systemkamera haben wir uns für die Nikon Z6 entschieden, da ein Mitglied dafür passende Objektive besitzt die wir bei Bedarf mitbenutzen dürfen. Ein Kompromiss mit einer günstigeren Kamera wäre nicht sinnvoll. Einige Youtube-Maker-Channel haben mit einer günstigeren Kamera angefangen und haben dann recht schnell auf eine Kamera mit Vollformatsensor gewechselt.
+
 [Epson EB-990U Beamer]: https://beamer.pro/promotion/projektoren/epson-eb-990u-superpreis
 [Acer P5530 Beamer]: https://www.beamershop24.de/de/acer-p5530.html
 

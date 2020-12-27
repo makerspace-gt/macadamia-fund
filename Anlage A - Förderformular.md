@@ -29,14 +29,13 @@
 9.  **Hat Ihre Organisation/Initiative bereits einen Förderantrag an die Bürgerstiftung Gütersloh gestellt?:**  
    Nein
 11. **Name des Projektes:**  
-    Macadamia - Weiterbildungsanstalt des Makerspace Gütersloh
+    Macadamia
 12. **Bitte machen Sie nähere Angaben zum Projekt**
     * **a. Ziel:**  
       Mit der Förderung sollen für den Verein die folgenden Möglichkeiten geschaffen werden:
       * Wissenvermittlung durch Workshops und Webinare
       * (Video-)Dokumentation von Projekten
-      * HowTos für Maschinen, Werkzeuge und Arbeitsweisen
-      * eventuell ein Podcast
+      * Erstellen von HowTos für Maschinen, Werkzeuge und Arbeitsweisen
     * **b. Zielgruppe:**  
       Von der Macadamia profitieren sowohl die Personen, die Wissen vermitteln, als auch die Personen die Wissen vermittelt bekommen. Da wir bereits fünf Arbeitsbereiche (Elektronik, 3D-Druck, Computer, Holz und Textil) haben, wird es ein breites Angebot geben, welche sich nicht an eine spezielle Alters- oder Intressengruppe richtet. Somit sind prinzipiell alle Neugierigen die Zielgruppe.
     * **c. Beschreibung/Durchführung:** 684 Zeichen  
@@ -44,19 +43,19 @@
       Bei der Einrichtung der Ausrüstung bekommen wir Unterstützung von ASSIMO EVENT, welche z.B. auch das Streaming für die Weberei organisieren.
     * **d. Das Projekt ist erfolgreich, wenn:**  
       ... die Möglichkeiten für die Wissensvermittlung geschaffen wurden. Dies lässt sich dadurch erkennen, dass mindestens ein HowTo für Maschinen, Werkzeuge oder Arbeitsweisen erstellt, ein Webinar abgehalten und ein Workshop durchgeführt wurde. 
-1.  **Gesamtkosten des Projektes:**  
+13. **Gesamtkosten des Projektes:**  
     ca. 3.875 € siehe Anlage B - Finanzierungskonzept für das Projekt
-2.  **Erwartete Förderung durch die Bürgerstiftung:**  
+14. **Erwartete Förderung durch die Bürgerstiftung:**  
     3.500 € siehe Anlage B - Finanzierungskonzept für das Projekt
-3.  **Durch wen und wie wird das Projekt finanziell unterstützt?**  
+15. **Durch wen und wie wird das Projekt finanziell unterstützt?**  
     * [Bürgerstiftung Gütersloh](https://www.buergerstiftung-guetersloh.de/)
     * [Schorcht](https://foto-schorcht.rf-webworld.de/)
     * [ASSIMO EVENT](http://www.assimo-event.de/)
-4.  **Zeitplan für das Projekt:**
+16. **Zeitplan für das Projekt:**
     * Beschaffen der Ausrüstung binnen 4 Wochen nach Erhalt der Fördermittel
     * Einrichten des Ausrüstung binnen 8 Woche nach Beschaffung der Ausrüstung
     * Erstellen eines HowTo für eine Maschine des Makerspace binnen 8 Wochen nach Einrichtung der Ausrüstung
     * Durchführen eines Webinares binnen 12 Wochen nach dem HowTo
     * Durchführen eines Workshops nach der Corona-Pandemie
-5.  **Bemerkungen:**  
+17. **Bemerkungen:**  
     Zu unseren Mitgliedern zählen sich Personen die sich beruflich oder privat schon mit einigen, für dieses Projekt nützlichen, Aufgaben beschäftigen. Unter anderem der Veranstaltungstechnik, der Fotografie oder "Let's Play" Youtube Videos.
