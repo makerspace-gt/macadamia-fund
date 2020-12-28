@@ -10,17 +10,17 @@ nina.spallek@buergerstiftung-guetersloh.de
 
 ---
 
-## Förderverfahren für das Projekt "Macadamia - Förderanstalt des Makerspace Gütersloh"
+## Förderverfahren für das Projekt "Macadamia"
 
 ---
 
 Sehr geehrte Frau Spallek,
 
 Angefügt finden Sie alle geforderten Dokumente:
-* [Anhang A - Förderformular](Anlage%20A%20-%20Förderformular.md)
-* [Anhang B - Finanzierungskonzept](Anlage%20B%20-%20Finanzierungskonzept%20für%20das%20Projekt.md)
-* [Anhang C - Projektbeschreibung](Anlage%20C%20-%20Projektbeschreibung.md)
-* [Anhang D - Freistellungsbescheid](Anlage%20D%20-%20Freistellungsbescheid.pdf)
+* [Anhang A - Förderformular](../Anlage%20A%20-%20Förderformular.md)
+* [Anhang B - Finanzierungskonzept](../Anlage%20B%20-%20Finanzierungskonzept%20für%20das%20Projekt.md)
+* [Anhang C - Projektbeschreibung](../Anlage%20C%20-%20Projektbeschreibung.md)
+* [Anhang D - Freistellungsbescheid](../Anlage%20D%20-%20Freistellungsbescheid.pdf)
 
 Wir freuen uns auf Ihre Antwort.
 
