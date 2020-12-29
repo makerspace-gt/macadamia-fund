@@ -12,7 +12,7 @@ Folgende Anschaffungen sind geplant:
 | 2x [Logitech G533 Headset][4]         |       219,80 € |
 | [JBL Xtreme 2 Musikbox][5]            |       178,99 € |
 | [Nikon Z6 Systemkamera][6]            |     1.898,00 € |
-| [SanDisk 128GB SDXC Speicherkarte][7] |        33,73 € |
+| [Sony 120GB XQD Speicherkarte][7]     |       159,98 € |
 | [Rode VMGO Kamera Mikrofon][8]        |        60,00 € |
 | [ayex AX-1 Funk-Fernauslöser][9]      |        28,95 € |
 | [Kameratasche][10]                    |        47,92 € |
@@ -21,16 +21,16 @@ Folgende Anschaffungen sind geplant:
 | [Videolicht mit Stativ][13]           |        64,99 € |
 | [Flint 4KP HDMI Capture Card][14]     |       203,99 € |
 | [Winkekatze][15]                      |         8,90 € |
-| **zwischen Summe**                    | **4.075,64 €** |
-| MwSt. Wieder-Erhöhung                 |       105,41 € |
-| **gesamt Summe**                      | **4.181,05 €** |
+| **zwischen Summe**                    | **4.201,89 €** |
+| MwSt. Wieder-Erhöhung                 |       108,67 € |
+| **gesamt Summe**                      | **4.310,56 €** |
 
 Die Kosten verteilen sich wie folgt:
 
 | Kostenträger         |       Wert |
 | -------------------- | ---------: |
-| Makerspace Gütersloh |   201,05 € |
-| Bürgerstiftung       | 3.980,00 € |
+| Makerspace Gütersloh |   210,56 € |
+| Bürgerstiftung       | 4.100,00 € |
 
 Da das Ziel des Projekts nur die Schaffung der Möglichkeiten zur Wissensvermittlung ist, gibt es kein weiteres  Finanzierungskonzept.  
 Die Angebote die mit diesen Möglichkeiten geschaffen werden sind für Mitglieder des Makerspace kostenlos. Der Preis für Gäste wird von der Person festgelegt, die den Workshop vorbereitet hat. Bei vergangenen Workshops waren es ca. 10 € pro Person für einen 3-stündigen Workshop zzgl. Verbrauchsmaterialien (z.B. Arduino Starterset oder Raspberry Pi).
@@ -46,6 +46,7 @@ Insbesondere bei der Systemkamera haben wir uns für die Nikon Z6 entschieden, d
 [5]: https://www.amazon.de/dp/B07CGB15VM
 [6]: https://gressung.de/shop/produkt/nikon-z6-24-70-f4-ftz-systemkamera-4960759150868
 [6]: https://designbraun.de/Canon-EOS-800D-Kit-18-55-mm-IS-STM
+[7]: https://www.foto-erhardt.de/speicher/xqd-karten/sony-qdg120f-xqd-karte-g-serie-120gb-400mb-s.html
 [7]: https://www.amazon.de/dp/B07L88YLMT
 [7]: https://www.amazon.de/dp/B07CM3655D
 [8]: https://www.amazon.de/dp/B07R484T99
