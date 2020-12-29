@@ -59,7 +59,7 @@ Die Vereinsarbeit selbst ist ehrenamtlich organisiert und wird in kooperation mi
 Von den Angeboten profitieren nicht nur die Konsumenten indem sie neues Wissen erlangen, sondern auch die Vortragenden. Um etwas zu erklären benötigt es ein tieferes Verständnis und es schärft den Sinn dafür wie Anfänger an das Thema herangehen. Da wir verschiende Arbeitsbereiche haben wird es ein breites Angebot geben, welches sich nicht an eine spezielle Alters- oder Intressengruppe richtet.  
 Es sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität ,sozialer Herkunft, Religion, etwaiger Behinderung oder sexuellen Orientierung.
 
-Da wir noch nicht wissen wie die Inhalte genutzt werden und ob andere vielleicht auch daran partizipieren können werden die Workshop-Unterlagen unter der Creative Commons Lizenz CC-BY[\[26\]][26] veröffentlicht.
+Da wir noch nicht wissen wie die Inhalte genutzt werden und ob andere vielleicht auch daran partizipieren können werden die Workshop-Unterlagen unter der Creative Commons Lizenz CC-BY[\[26\]][26] veröffentlicht. Generell versuchen wir unsere Arbeit transparent zu gestalten und stellen auch die Unterlagen zu unseren Förderanträgen zur Verfügung[\[27\]][27].
 
 All dies ist nicht ganz einfach umzusetzen, sodass wir selbst dafür erst noch etwas lernen müssen. Wir haben zur Zeit gut 20 Mitglieder die durch ihren Beruf und Freizeitinteressen verschiedenen Expertisen unter anderem aus den Bereichen Veranstaltungstechnik, Fotografie und "Let's Play" Youtube Videos besitzen und motiviert sind dieses Projekt anzugehen. Es wird ein Projekt indem Mitglieder mit verschiedenen Kenntnisständen zusammenarbeiten, neue Personen im Umgang mit verschiedenen Maschinen, Werkzeugen und Technologien befähigt werden und Kreativität sowie Neugierde gefördert wird.
 
@@ -90,6 +90,7 @@ All dies ist nicht ganz einfach umzusetzen, sodass wir selbst dafür erst noch e
 \[24\] <http://www.smcnautilus-guetersloh.de/>  
 \[25\] <http://www.emfgt.de/>  
 \[26\] <https://creativecommons.org/licenses/by/3.0/de/>  
+\[27\] <https://git.makerspace-gt.de/makerspace-gt/forderantrage/macadamia-burgerstiftung>  
 
 [1]:  https://makerspace-gt.de
 [2]:  https://anstiftung.de/selbermachen/offene-werkstaetten
@@ -119,3 +120,4 @@ All dies ist nicht ganz einfach umzusetzen, sodass wir selbst dafür erst noch e
 [24]: http://www.smcnautilus-guetersloh.de/
 [25]: http://www.emfgt.de/
 [26]: https://creativecommons.org/licenses/by/3.0/de/
+[27]: https://git.makerspace-gt.de/makerspace-gt/forderantrage/macadamia-burgerstiftung

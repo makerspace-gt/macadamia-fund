@@ -44,13 +44,11 @@
     * **d. Das Projekt ist erfolgreich, wenn:**  
       ... die Möglichkeiten für die Wissensvermittlung geschaffen wurden. Dies lässt sich dadurch erkennen, dass mindestens ein HowTo für Maschinen, Werkzeuge oder Arbeitsweisen erstellt, ein Webinar abgehalten und ein Workshop durchgeführt wurde. 
 13. **Gesamtkosten des Projektes:**  
-    ca. 3.875 € siehe Anlage B - Finanzierungskonzept für das Projekt
+    ca. 4.180 € siehe Anlage B - Finanzierungskonzept für das Projekt
 14. **Erwartete Förderung durch die Bürgerstiftung:**  
-    3.500 € siehe Anlage B - Finanzierungskonzept für das Projekt
+    3.980 € siehe Anlage B - Finanzierungskonzept für das Projekt
 15. **Durch wen und wie wird das Projekt finanziell unterstützt?**  
     * [Bürgerstiftung Gütersloh](https://www.buergerstiftung-guetersloh.de/)
-    * [Schorcht](https://foto-schorcht.rf-webworld.de/)
-    * [ASSIMO EVENT](http://www.assimo-event.de/)
 16. **Zeitplan für das Projekt:**
     * Beschaffen der Ausrüstung binnen 4 Wochen nach Erhalt der Fördermittel
     * Einrichten des Ausrüstung binnen 8 Woche nach Beschaffung der Ausrüstung
