@@ -7,7 +7,7 @@ Unter dem Motto "Mach doch was Du willst!" animieren wir unsere Mitglieder und G
 Seit gut einem Jahr ist unsere Werkstatt Teil des Bürgerkiez in dem Kulturzentrum der Weberei. Auf knapp 40 m² bieten wir verschiedene Arbeitsbereiche:
 
 - **Elektronik** mit verschiedenen Lötstationen, Messgeräten und Bauteilen
-- FFF-**3D-Druck** mit verschiedenen Materialien
+- FDM-**3D-Druck** mit verschiedenen Materialien
 - stationäre und mobile **Computer**-Arbeitsplätze mit weitestgehend freier Software zum konstruieren, programmieren und gestalten
 - **Holz** mit Schleif- und Bohrmaschinen, Fräse und Lasercutter
 - **Textil** mit Näh-, Kettel- und Stickmaschinen, Plotter und einer Siebdruckanlage
@@ -15,14 +15,14 @@ Seit gut einem Jahr ist unsere Werkstatt Teil des Bürgerkiez in dem Kulturzentr
 
 Daneben gibt es noch verschiedene Dinge die sich nicht direkt einem Bereich zuordnen lassen. Insbesondere Handwerkzeuge, Kleber und Schrauben zählen dazu. Und es können noch weitere Materialien mit den bestehenden Werkzeugen bearbeitet werden. Der Lasercutter eignet sich auch hervorragend für verschiedene Kunststoffe und mit den Schleif- und Bohrmaschinen können im gewissen Umfang auch Metalle bearbeitet werden.
 
-Das Bereitstellen der Maschinen und Werkzeuge ist jedoch nicht ausreichend damit damit etwas geschaffen werden kann. Es müssen Einweisungen und Schulungen stattfinden, die über die Anwendung, Sicherheit und Beherrschbarkeit wie auch über die Geschichte, Weiterentwicklung und dem selbstständigen und kreativem Umgang mit Technologien und Technik im Allgemeinen Informieren.
+Das Bereitstellen der Maschinen und Werkzeuge ist jedoch nicht ausreichend damit etwas geschaffen werden kann. Es müssen Einweisungen und Schulungen stattfinden, die über die Anwendung, Sicherheit und Beherrschbarkeit wie auch über die Geschichte, Weiterentwicklung und dem selbstständigen und kreativem Umgang mit Technologien und Technik im Allgemeinen Informieren.
 
 Um diese Informationen auf einem professionellen Niveau zu vermitteln haben wir das Projekt "Macadamia" gestartet. Die Macadamia[\[3\]][3] ist eine Nuss die, wie das teilen von Wissen, sehr wertvoll ist und liefert, wie die meisten Nüsse, lang anhaltend Energie für das Gehirn. Weiterhin ist der Name ein Wortspiel aus "Maker" und "Akademie".
 
 Mit der Förderung soll das Equipment gemäßt "Anlage B - Finanzierungskonzept für das Projekt" angeschafft werden.  
 Dadurch ergeben sich mindestens 12 Verwendungskombinationen:
 
-1. Der Klassiker der Wissensvermittlung ist der **Präsenz-Workshop**. Davon wurden bereits schon einige zu unterschiedlichen Themen[\[4\]][4] durchgeführt. Die Workshops finden in Kooperation mit der Stadtbibliothek[\[5\]][5] und der ASH[\[6\]][6] in deren Räumen statt. Dieses Format bieten sich insbesondere für Themen an bei denen die Teilnehmer direkt mit Hardware arbeiten sollen (z.B. Arduino-Grundlagen oder Löten).
+1. Der Klassiker der Wissensvermittlung ist der **Präsenz-Workshop**. Davon wurden bereits einige zu unterschiedlichen Themen[\[4\]][4] durchgeführt. Die Workshops finden in Kooperation mit der Stadtbibliothek[\[5\]][5] und der ASH[\[6\]][6] in deren Räumen statt. Dieses Format bieten sich insbesondere für Themen an, bei denen die Teilnehmer direkt mit Hardware arbeiten sollen (z.B. Arduino-Grundlagen oder Löten).
 2. Zusätzlich zu den Workshops gibt es noch die **Wissenshäppchen**[\[7\]][7] in Kooperation mit der Stadtbibliothek und der VHS[\[8\]][8]. Dabei wird ein Thema in ca. einer halben Stunde möglichst einfach erklärt. Dies kann auch als Vorbereitung für einen Workshop genutzt werden, damit die Gäste sich einen Einblick in das Thema verschaffen können 
 3. Weiterhin sollen **Online-Workshops** durchgeführt werden. Dadurch können mehr Personen erreicht werden und die Informationen sind auch noch im Nachhinein konsumierbar. Die Themen müssen dafür geeignet werden (z.B. Platinenlayout oder Versionsverwaltung). Das Live-Streaming wird voraussichtlich auf Youtube[\[9\]][9] erfolgen und wird mit der Open Broadcaster Software[\[10\]][10] umgesetzt. Mit Fragen im Bezug auf Einrichtung und Durchführung können wir uns an die anstiftung[\[11\]][11] wenden. Diese hat bereits einige Webinare in Kooperation mit verschiedenen, offenen Werkstätten abgehalten, aufgezeichnet und veröffentlicht[\[12\]][12]. Von der Qualität der Webinare konnten wir uns bereits als Gast überzeugen.
 4. Wenn sowohl Präsenz- als auch Online-Workshops durchgeführt werden sind alle Voraussetzungen vorhanden um **Aufzeichnungen** von Präsenz-Workshops und Wissenshäppchen zu erstellen, sofern die Teilnehmen damit einverstanden sind.
