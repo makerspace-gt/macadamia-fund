@@ -44,9 +44,9 @@
     * **d. Das Projekt ist erfolgreich, wenn:**  
       ... die Möglichkeiten für die Wissensvermittlung geschaffen wurden. Dies lässt sich dadurch erkennen, dass mindestens ein HowTo für Maschinen, Werkzeuge oder Arbeitsweisen erstellt, ein Webinar abgehalten und ein Workshop durchgeführt wurde. 
 13. **Gesamtkosten des Projektes:**  
-    ca. 4.310 € siehe Anlage B - Finanzierungskonzept für das Projekt
+    ca. 4.260 € siehe Anlage B - Finanzierungskonzept für das Projekt
 14. **Erwartete Förderung durch die Bürgerstiftung:**  
-    4.100 € siehe Anlage B - Finanzierungskonzept für das Projekt
+    4.000 € siehe Anlage B - Finanzierungskonzept für das Projekt
 15. **Durch wen und wie wird das Projekt finanziell unterstützt?**  
     * [Bürgerstiftung Gütersloh](https://www.buergerstiftung-guetersloh.de/)
 16. **Zeitplan für das Projekt:**
