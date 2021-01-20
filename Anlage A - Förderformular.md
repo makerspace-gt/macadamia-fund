@@ -15,14 +15,15 @@
    michael@makerspace-gt.de
 6. **Konto/BLZ/Bank:**  
    IBAN: DE52 4786 0125 1226 2315 00  
-   BIC: GENODEM1GTL
+   BIC: GENODEM1GTL  
+   Bank: Volksbank Bielefeld-Gütersloh
 7. **wenn Organisation (bei 1.):**
    * **a. seit wann existiert die Organisation?**  
      21.06.2018
    * **b. Rechtsform (z.B. Verein, gemeinnützige GmbH)**  
      gemeinnütziger eingetragener Verein
    * **c. Welche Zwecke verfolgt die Organisation?**  
-     Förderung von Wissenschaft, Forschung und Bildung, sowie der Kunst und Kultur
+     Förderung von Wissenschaft, Forschung, Bildung, Kunst und Kultur
 8. **Jahresbudget der Organisation:**  
    7.906,77 € für 2019  
    siehe [Kassenbericht Makerspace Gütersloh e.V. für das Geschäftsjahr 2019](https://git.makerspace-gt.de/makerspace-gt/todo/-/raw/master/2020/2020-02-28_Kassenbericht_Gesch%C3%A4ftsjahr_2019.pdf)
