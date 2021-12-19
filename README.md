@@ -84,6 +84,23 @@ Die Macadamia Förderung hat viele verschiedene Einsatzmöglichkeiten. Das Haupt
 
 Die Unterlagen zu dieser Förderung sind auf github [(21)][21] dokumentiert, sodass auch andere Initiativen davon profitieren können.
 
+# Bilder
+
+![](Bilder/584a2f90d6072352aa1504247bd8f2d1.jpg "Erster Einkauf des Equipments")  
+
+![](Bilder/7e85d23e93a49cd383b843b8a9dbf825.jpg "Friction Arm")  
+![](Bilder/f91b93d74858b7496b0616bc357e28e7.jpg "Friction Arm")  
+
+![](Bilder/4bc4a793b80152a2ad2ca0ff179d7556.jpg "provisorisches Kino")  
+![](Bilder/0add1c2786b3b9b329ea927585328e4f.jpg "provisorisches Kino")  
+
+![](Bilder/5badc2eeac40e998022db8454d6106c9.jpg "MAKERSPACE X VOLKSBANK")  
+![](Bilder/817a73be0d44436d21e8d8c796b72d7c.jpg "Azubis")  
+![](Bilder/ed5880677edf381212f9058d2da642c8.jpg "Azubis")  
+![](Bilder/5cfc931a6f6c7d643a869d9bca5ccc86.jpg "Akkuschrauber")  
+![](Bilder/5bc67438f3468b0b28ee9a285a1a717d.jpg "Lötkolben")  
+![](Bilder/14a70db0b410f6f008af160c582cc5e4.jpg "Nähmaschine")  
+
 # Links
 
 (1) https://forum.makerspace-gt.de/t/macadamia-foerderantrag-fuer-workshops/330  
