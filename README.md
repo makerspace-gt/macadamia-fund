@@ -69,9 +69,10 @@ Am meisten wurde bisher die Kamera verwendet um Fotos von den eigenen Basteleien
 
 Auch beliebt war es die Kamera und das Mikrofon auszuleihen um an digitalen oder hybriden Formaten teilzunehmen.  
 Unsere Community Runde [(16)][16] fand anfangs rein analog statt, dann seit Corona digital und nun endlich hybrid, was doch wesentlich angenehmer ist. Dadurch konnte die Planung vor Ort durchgeführt werden, weil beispielsweise noch etwas ausgemessen wurde und trotzdem konnten andere von zu Hause oder Unterwegs daran teilnehmen und sich einbringen.  
-Es wurden auch zwei neue Formate etabliert.  
-Seit März 2021 findet einmal im Monat die Nähbar [(17)][17] statt. Dabei werden Nähprojekte verfolgt und es kann nebenbei gequatscht und gefachsimpelt werden.  
-Seit Mai 2021 findet einmal im Monat ein Biertasting [(18)][18] statt. Es befinden sich mehrere Hobbybrauer im Verein und können so strukturierte Meinungen zu der Selbstgebrauten im Vergleich zu gekauften Bieren von dem selben Stil bekommen.
+Es wurden auch zwei neue Formate etabliert:
+
+- Seit März 2021 findet einmal im Monat die Nähbar [(17)][17] statt. Dabei werden Nähprojekte verfolgt und es kann nebenbei gequatscht und gefachsimpelt werden.  
+- Seit Mai 2021 findet einmal im Monat ein Biertasting [(18)][18] statt. Es befinden sich mehrere Hobbybrauer im Verein und können so strukturierte Meinungen zu der Selbstgebrauten im Vergleich zu gekauften Bieren von dem selben Stil bekommen.
 
 Durch verschiedene Umstände wie Corona, Studiumsabschlüsse, Umzüge und Jobwechsel war es nicht immer ganz einfach die ganzen Ideen wie geplant umzusetzen.  
 Es gibt bereits schon Foto und Video Material das die Benutzung von dem Lasercutter erklären soll, welches nur noch darauf wartet geschnitten zu werden.
@@ -86,20 +87,21 @@ Die Unterlagen zu dieser Förderung sind auf github [(21)][21] dokumentiert, sod
 
 # Bilder
 
-![](Bilder/584a2f90d6072352aa1504247bd8f2d1.jpg "Erster Einkauf des Equipments")  
+| Bezeichnung                   | Name                                                                                |                                                                                  |
+| :---------------------------- | :---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Erster Einkauf des Equipments | [584a2f90d6072352aa1504247bd8f2d1.jpg](Bilder/584a2f90d6072352aa1504247bd8f2d1.jpg) | ![](Bilder/584a2f90d6072352aa1504247bd8f2d1.jpg "Erster Einkauf des Equipments") |
+| Kamera mit Mikrofon           | [6cc6d2c2c813c88ffa5e6a5aec403403.jpg](Bilder/6cc6d2c2c813c88ffa5e6a5aec403403.jpg) | ![](Bilder/6cc6d2c2c813c88ffa5e6a5aec403403.jpg "Kamera mit Mikrofon")           |
+| Friction Arm                  | [7e85d23e93a49cd383b843b8a9dbf825.jpg](Bilder/7e85d23e93a49cd383b843b8a9dbf825.jpg) | ![](Bilder/7e85d23e93a49cd383b843b8a9dbf825.jpg "Friction Arm")                  |
+| Friction Arm                  | [f91b93d74858b7496b0616bc357e28e7.jpg](Bilder/f91b93d74858b7496b0616bc357e28e7.jpg) | ![](Bilder/f91b93d74858b7496b0616bc357e28e7.jpg "Friction Arm")                  |
+| provisorisches Kino           | [4bc4a793b80152a2ad2ca0ff179d7556.jpg](Bilder/4bc4a793b80152a2ad2ca0ff179d7556.jpg) | ![](Bilder/4bc4a793b80152a2ad2ca0ff179d7556.jpg "provisorisches Kino")           |
+| provisorisches Kino           | [0add1c2786b3b9b329ea927585328e4f.jpg](Bilder/0add1c2786b3b9b329ea927585328e4f.jpg) | ![](Bilder/0add1c2786b3b9b329ea927585328e4f.jpg "provisorisches Kino")           |
+| MAKERSPACE X VOLKSBANK        | [5badc2eeac40e998022db8454d6106c9.jpg](Bilder/5badc2eeac40e998022db8454d6106c9.jpg) | ![](Bilder/5badc2eeac40e998022db8454d6106c9.jpg "MAKERSPACE X VOLKSBANK")        |
+| Azubis                        | [817a73be0d44436d21e8d8c796b72d7c.jpg](Bilder/817a73be0d44436d21e8d8c796b72d7c.jpg) | ![](Bilder/817a73be0d44436d21e8d8c796b72d7c.jpg "Azubis")                        |
+| Azubis                        | [ed5880677edf381212f9058d2da642c8.jpg](Bilder/ed5880677edf381212f9058d2da642c8.jpg) | ![](Bilder/ed5880677edf381212f9058d2da642c8.jpg "Azubis")                        |
+| Akkuschrauber                 | [5cfc931a6f6c7d643a869d9bca5ccc86.jpg](Bilder/5cfc931a6f6c7d643a869d9bca5ccc86.jpg) | ![](Bilder/5cfc931a6f6c7d643a869d9bca5ccc86.jpg "Akkuschrauber")                 |
+| Lötkolben                     | [5bc67438f3468b0b28ee9a285a1a717d.jpg](Bilder/5bc67438f3468b0b28ee9a285a1a717d.jpg) | ![](Bilder/5bc67438f3468b0b28ee9a285a1a717d.jpg "Lötkolben")                     |
+| Nähmaschine                   | [14a70db0b410f6f008af160c582cc5e4.jpg](Bilder/14a70db0b410f6f008af160c582cc5e4.jpg) | ![](Bilder/14a70db0b410f6f008af160c582cc5e4.jpg "Nähmaschine")                   |
 
-![](Bilder/7e85d23e93a49cd383b843b8a9dbf825.jpg "Friction Arm")  
-![](Bilder/f91b93d74858b7496b0616bc357e28e7.jpg "Friction Arm")  
-
-![](Bilder/4bc4a793b80152a2ad2ca0ff179d7556.jpg "provisorisches Kino")  
-![](Bilder/0add1c2786b3b9b329ea927585328e4f.jpg "provisorisches Kino")  
-
-![](Bilder/5badc2eeac40e998022db8454d6106c9.jpg "MAKERSPACE X VOLKSBANK")  
-![](Bilder/817a73be0d44436d21e8d8c796b72d7c.jpg "Azubis")  
-![](Bilder/ed5880677edf381212f9058d2da642c8.jpg "Azubis")  
-![](Bilder/5cfc931a6f6c7d643a869d9bca5ccc86.jpg "Akkuschrauber")  
-![](Bilder/5bc67438f3468b0b28ee9a285a1a717d.jpg "Lötkolben")  
-![](Bilder/14a70db0b410f6f008af160c582cc5e4.jpg "Nähmaschine")  
 
 # Links
 
